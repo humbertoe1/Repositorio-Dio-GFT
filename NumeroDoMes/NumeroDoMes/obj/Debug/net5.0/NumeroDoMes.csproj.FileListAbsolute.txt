@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.exe
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.deps.json
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.runtimeconfig.json
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.dll
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\ref\NumeroDoMes.dll
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\bin\Debug\net5.0\NumeroDoMes.pdb
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.dll
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\ref\NumeroDoMes.dll
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.pdb
+C:\Dio\Repositorio-Dio-GFT\NumeroDoMes\NumeroDoMes\obj\Debug\net5.0\NumeroDoMes.genruntimeconfig.cache
