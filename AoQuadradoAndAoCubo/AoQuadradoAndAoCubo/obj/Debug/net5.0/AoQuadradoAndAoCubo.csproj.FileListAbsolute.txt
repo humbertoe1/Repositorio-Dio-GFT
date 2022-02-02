@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.exe
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.deps.json
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.runtimeconfig.json
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.dll
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\ref\AoQuadradoAndAoCubo.dll
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\bin\Debug\net5.0\AoQuadradoAndAoCubo.pdb
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.dll
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\ref\AoQuadradoAndAoCubo.dll
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.pdb
+C:\Dio\Repositorio-Dio-GFT\AoQuadradoAndAoCubo\AoQuadradoAndAoCubo\obj\Debug\net5.0\AoQuadradoAndAoCubo.genruntimeconfig.cache
