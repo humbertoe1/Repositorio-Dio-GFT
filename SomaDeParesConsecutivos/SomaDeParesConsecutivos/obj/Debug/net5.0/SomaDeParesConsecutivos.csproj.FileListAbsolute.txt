@@ -1,0 +1,16 @@
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.exe
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.deps.json
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.json
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.runtimeconfig.dev.json
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.dll
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\bin\Debug\net5.0\SomaDeParesConsecutivos.pdb
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.AssemblyReference.cache
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfoInputs.cache
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.AssemblyInfo.cs
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.dll
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\ref\SomaDeParesConsecutivos.dll
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.pdb
+C:\Dio\Repositorio-Dio-GFT\SomaDeParesConsecutivos\SomaDeParesConsecutivos\obj\Debug\net5.0\SomaDeParesConsecutivos.genruntimeconfig.cache
